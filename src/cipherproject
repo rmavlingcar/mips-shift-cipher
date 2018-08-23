@@ -1,5 +1,5 @@
-# Ricky Mavlingcar
-# MIPS Caesar/Shift Cipher
+# Ricky Mavlingcar | cipherproject.asm
+# MIPS Caesar/Shift Cipher Project
 # CS3340.0U2 Computer Architecture
 
 	.data
