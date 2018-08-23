@@ -1,1 +1,1 @@
-# mips_shift_cipher
+# Shift cipher implemented in MIPS
